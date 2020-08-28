@@ -1,7 +1,7 @@
 # Heist-Robbin-Raclettes
 | TEAM: Erik, Lacey, Kelley, Trigg
 
-||# Plan Your Heist
+|| Plan Your Heist
 
 ## A C# Exercise
 
